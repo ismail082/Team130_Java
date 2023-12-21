@@ -21,5 +21,9 @@ public class C06_ExpilicitNarrowing {
         int sayi4 = 2600000;
         byt = (byte) sayi3;
         System.out.println(byt);
+
+        int sayi5 = 2100000000;
+        sayi5 = sayi5 + 50000000;
+        System.out.println(sayi5);
     }
 }
