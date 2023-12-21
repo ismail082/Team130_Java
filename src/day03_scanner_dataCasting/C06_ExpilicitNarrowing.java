@@ -18,7 +18,7 @@ public class C06_ExpilicitNarrowing {
         byt = (byte) sayi3;
         System.out.println(byt);
 
-        int sayi4 = 2600;
+        int sayi4 = 26000;
         byt = (byte) sayi3;
         System.out.println(byt);
     }
